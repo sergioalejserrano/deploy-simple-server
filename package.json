@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "* Make sure to have an account with Heroku\r * Create an application with a unique name\r * Connect your github account to Heroku and link to your fork of this repo\r * Deploy your code to Heroku from github",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,6 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "*",
-    "express": "*"
-  }
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioalejserrano/deploy-simple-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sergioalejserrano/deploy-simple-server/issues"
+  },
+  "homepage": "https://github.com/sergioalejserrano/deploy-simple-server#readme"
 }
