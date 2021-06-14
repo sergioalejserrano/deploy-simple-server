@@ -3,6 +3,7 @@
     "msj":"Ok",
     "values":{
        "idCondition":1,
+       "cuota": 1.5,
        "lifeInsurance":0.026930,
        "unemploymentInsurance6":3.0849,
        "unemploymentInsurance12":6.1698,
